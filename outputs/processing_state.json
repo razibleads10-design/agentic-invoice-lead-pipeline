@@ -1,0 +1,8 @@
+{
+  "processed_invoice_ids": [
+    "INV-1001",
+    "INV-1002",
+    "INV-1003"
+  ],
+  "total_processed": 3
+}
