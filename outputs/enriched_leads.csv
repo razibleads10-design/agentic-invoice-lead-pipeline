@@ -1,0 +1,5 @@
+company,email,website,industry,employees,annual_budget,lead_score,lead_category
+Northstar Digital,info@northstar.example,https://northstar.example,Technology,45,80000.0,90,High
+Apex Marketing,contact@apex.example,https://apex.example,Marketing,20,35000.0,75,High
+Bluewave Tech,hello@bluewave.example,https://bluewave.example,Software,75,120000.0,100,High
+Demo Business,,,Retail,5,5000.0,0,Low
