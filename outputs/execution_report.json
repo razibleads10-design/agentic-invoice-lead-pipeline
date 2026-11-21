@@ -1,0 +1,8 @@
+{
+  "status": "SUCCESS",
+  "invoice_count": 3,
+  "lead_count": 4,
+  "high_priority_leads": 3,
+  "total_invoice_value": 7500.0,
+  "validation": "Pydantic validation enabled"
+}
