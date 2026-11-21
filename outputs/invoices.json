@@ -1,0 +1,20 @@
+[
+  {
+    "invoice_number": "INV-1001",
+    "vendor": "Northstar Digital Solutions",
+    "invoice_date": "2026-11-10",
+    "total_due": 2450.0
+  },
+  {
+    "invoice_number": "INV-1002",
+    "vendor": "Apex Marketing Group",
+    "invoice_date": "2026-11-12",
+    "total_due": 1850.0
+  },
+  {
+    "invoice_number": "INV-1003",
+    "vendor": "Bluewave Technologies",
+    "invoice_date": "2026-11-15",
+    "total_due": 3200.0
+  }
+]
