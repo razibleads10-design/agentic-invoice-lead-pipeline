@@ -1,0 +1,14 @@
+Invoice Number: INV-1001
+Vendor: Northstar Digital Solutions
+Invoice Date: 2026-11-10
+Total Due: $2,450.00
+
+Invoice Number: INV-1002
+Vendor: Apex Marketing Group
+Invoice Date: 2026-11-12
+Total Due: $1,850.00
+
+Invoice Number: INV-1003
+Vendor: Bluewave Technologies
+Invoice Date: 2026-11-15
+Total Due: $3,200.00
