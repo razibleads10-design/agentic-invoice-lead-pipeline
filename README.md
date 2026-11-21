@@ -57,3 +57,18 @@ No live-data, production-scale, or performance claims are implied
 unless separately demonstrated and verified.
 
 <!-- FINAL PORTFOLIO VERIFICATION END -->
+
+## Extended Automated Test Verification
+
+Additional automated tests were added and executed successfully.
+
+Coverage includes:
+- Missing invoice field validation
+- Invalid invoice date validation
+- Invalid invoice amount validation
+- Currency and comma amount parsing
+- Lead scoring category verification
+- Pipeline output generation
+- Duplicate invoice handling
+
+All existing and extended tests were executed locally using unittest.
