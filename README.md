@@ -39,3 +39,21 @@ No external API or paid API key is required.
 This version implements the deterministic Python pipeline.
 CrewAI orchestration and Gemini-based fallback are not
 included in this implementation.
+
+
+<!-- FINAL PORTFOLIO VERIFICATION START -->
+## Final Portfolio Verification
+
+**Project scope:** Deterministic Python pipeline for invoice extraction, Pydantic validation, B2B lead scoring, duplicate detection, CSV/JSON outputs, processing state, and execution reports.
+
+**Repository file inspection:** Completed.
+
+**Automated test status:** PASSED
+
+**Repository:** https://github.com/razibleads10-design/agentic-invoice-lead-pipeline
+
+This project uses demonstration data where applicable.
+No live-data, production-scale, or performance claims are implied
+unless separately demonstrated and verified.
+
+<!-- FINAL PORTFOLIO VERIFICATION END -->
